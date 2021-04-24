@@ -25,6 +25,7 @@
             android:background="#fff"
             android:padding="10dp"
             android:gravity="center"
+            android:id="@+id/textField"
             />
 
         <ImageView
